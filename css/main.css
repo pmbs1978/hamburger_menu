@@ -19,6 +19,7 @@ body{
 
 .menu{
     clear: left;
+    width: 100%;
 }
 .menu ul{
     margin: 0;
